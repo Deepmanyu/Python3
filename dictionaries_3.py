@@ -1,6 +1,6 @@
 #dictionaries comprehension
 
-# example
+# example 
 numbers = dict(first = 1, second = 2, third = 3)
 sq_numbers = {key1: values1 ** 2 for key1, values1 in numbers.items()}
 
@@ -37,7 +37,7 @@ print(num_dict)
 # first item in each list a key and the second item a corresponding value
 person = [["name", "Jared"], ["job", "Musician"], ["city", "Bern"]]
 answer2 = {person[i][0]: person[i][-1] for i in range(0, len(person))}
-
+print(answer2)
 
 #ascii values and numbers 
 answer = {i: chr(i) for i in range(65, 91)}
