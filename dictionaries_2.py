@@ -1,6 +1,6 @@
 #dictionaries
 
-d = dict(a = 1, b = 2, c = 3)
+d = dict(a = 1, b = 2, c = 3) 
 c = d.copy() #copy the dictionary into another dictionary
 print(c)
 
