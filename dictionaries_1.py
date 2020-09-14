@@ -8,7 +8,7 @@ user_info = [{"sno": 1, "name": "deep", "gender": "M"},
 			{"sno": 2, "name": "ceep", "gender": "F"},
 			{"sno": 3, "name": "feep", "gender": "M"},]
 print(user_info)
-print(type(user_info))
+print(type(user_info)) 
 
 #dictionary
 user_info2 = dict(sno = 1 , name = "deep", gender = "M")
