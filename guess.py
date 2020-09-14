@@ -1,4 +1,4 @@
- #guessing game - guess the number
+ #guessing game - guess the number 
 
 from random import randint
 number = randint(1, 10)
