@@ -1,4 +1,4 @@
-# Query string
+# Query string 
 
 #What is a query string
 # a way to passs data to the server as a part of a GET request
