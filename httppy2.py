@@ -9,7 +9,7 @@
 # q = query 
 # oq = original query
 
-import requests
+import requests 
 from random import choice
 from pyfiglet import figlet_format
 from termcolor import colored
