@@ -30,7 +30,7 @@ print(ensure_correct_info(1, True, "deep", "suhag"))
 # **kwargs - keyword args
 # gathers remaining keyword arguments as a dictionary
 
-def fav_colors(**kwargs):
+def fav_colors(**kwargs): 
 	for person, color in kwargs.items():
 		print(f"{person }'s fav color is {color}")
 
