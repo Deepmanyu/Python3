@@ -50,7 +50,7 @@ print(special_greeting(deep = "special", anu = "hi"))
 
 # parameters ordering
 # 1 - parameters, 2- *args, 3- default parameters, 4- **kwargs
-def display_info(a, b, *args, name = "deep", **kwargs):
+def display_info(a, b, *args, name = "deep", **kwargs): 
 	return(a, b, args, name, kwargs)
 # a - 1
 # b - 2
