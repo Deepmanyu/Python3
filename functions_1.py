@@ -21,7 +21,7 @@ print(print_square_of_seven())
 from random import random
 
 def flip_coin():
-	if random() > .5: # generates a randon number from 0 - 1
+	if random() > .5:  # generates a randon number from 0 - 1
 		return "Heads"
 	else:
 		return "Tails"
