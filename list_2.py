@@ -18,7 +18,7 @@ print(new_list_1)
 # remove the vovels from the below string
 string_given = "This is so much fun"
 new_string = ''.join(char for char in string_given if char not in "aeiou")
-print(new_string)
+print(new_string) 
 
 
 #Given 2 lists [1, 2, 3, 4] and [3, 4, 5, 6], create a variable called answer,
