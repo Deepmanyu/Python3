@@ -4,7 +4,7 @@
 
 numbers = [1, 2, 3, 4, 5, 6] 
 
-# make even and odd strings from the list named numbers
+# make even and odd strings from the list named numbers 
 even_no = [x for x in numbers if x % 2 == 0]
 odd_no  = [x for x in numbers if x % 2 != 0]
 print(f"even list: {even_no}, odd list: {odd_no}")
