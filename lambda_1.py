@@ -4,7 +4,7 @@
 #Syntax - lambda variables: single line 
 #We can use lambda to save us from defining many single line functions
 
-def square(num): 
+def square(num):
 	return num * num
 print(square(9))
 
