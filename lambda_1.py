@@ -1,6 +1,6 @@
 #Lambda - are a special case of a function
 #is a single line functon that does not have a name. Generally
-# not stored in a variable 
+# not stored in a variable
 #Syntax - lambda variables: single line 
 #We can use lambda to save us from defining many single line functions
 
