@@ -17,7 +17,7 @@ print(add(1, 5))
 
 print(square.__name__)
 print(square2.__name__)
-print(add.__name__) 
+print(add.__name__)
 
 #Map
 #Map - a standard function that accepts atleast 2 arguments 
