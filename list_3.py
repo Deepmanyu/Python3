@@ -1,6 +1,6 @@
 # nested list comprehension 
 
-nested_list = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
+nested_list = [[1, 2, 3], [4, 5, 6], [7, 8, 9]] 
 
 #print each item of the nested list
 [[print(val) for val in l] for l in nested_list]
@@ -20,3 +20,4 @@ print(answer)
 
 answer2 = [[i for i in range(0, 10)] for j in range(0, 10)]
 print(answer2)
+print(len(answer2))
