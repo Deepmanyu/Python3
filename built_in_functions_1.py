@@ -2,7 +2,7 @@
 #Any and all
 
 #All - returns True if all elements of the iterable are truthy
-# or the iterable is empty
+# or the iterable is empty 
 all([0, 1, 2, 3 ]) # false as 0 is falsy
 print(all([char for char in "eio" if char in "aeiou"])) # True 
 print(all([num for num in [4, 2, 10, 8, 6] if num % 2 == 0])) # True
