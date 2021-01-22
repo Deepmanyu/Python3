@@ -14,7 +14,7 @@ print(make_noise.__doc__)
 def print_square_of_seven():
 	print("i am befor the return".upper())
 	return 7 ** 2
-print(print_square_of_seven())
+print(print_square_of_seven()) 
 
 
 #coin flip
