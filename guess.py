@@ -13,7 +13,7 @@ while play_again == "y":
 		if guess != "":
 			guess = int(guess)
 		if guess < number:
-			print("Too Low")
+			print("Too Low") 
 		elif guess > number:
 			print("Too High")
 		else:
