@@ -9,7 +9,7 @@ print(c is d) #tests for equality in memory
 
 d.clear() #empty the dictionary
 print(d)
-d = dict(a = 1, b = 2, c = 3)
+d = dict(a = 1, b = 2, c = 3) 
 
 
 #fromkeys - used to create dictionaries with innitial defalut values
