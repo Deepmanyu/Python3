@@ -16,7 +16,7 @@ print(d1)
 str1 = "abc"
 str2 = "123"
 combo_str = {str1[i]: str2[i] for i in range(0, len(str1) -1 )} 
-print(combo_str) 
+print(combo_str)
 
 #3
 list1 = ["CA", "NJ", "RI"]
