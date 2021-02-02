@@ -9,13 +9,13 @@ print(f"{numbers}{sq_numbers}")
 # creating a dictionary with dictionary comprehension
 
 #1
-d1 = {num: num ** 2 for num in [1, 2, 3, 4, 5]} 
+d1 = {num: num ** 2 for num in [1, 2, 3, 4, 5]}
 print(d1)
 
 #2
 str1 = "abc"
 str2 = "123"
-combo_str = {str1[i]: str2[i] for i in range(0, len(str1) -1 )}
+combo_str = {str1[i]: str2[i] for i in range(0, len(str1) -1 )} 
 print(combo_str)
 
 #3
