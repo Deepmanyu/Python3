@@ -24,7 +24,7 @@ list2 = ["California", "New Jersey", "Rhode Island"]
 answer = {list1[i]: list2[i] for i in range(0, len(list1))}
 print(answer)
 answer1 = dict(zip(list1, list2)) #we can use zip also as an advanced function
-print(answer1)
+print(answer1) 
 
 
 # conditional logic with dictionaries 
