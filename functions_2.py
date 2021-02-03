@@ -15,7 +15,7 @@ def sum_all_nums1(*args):
 		total += num
 	return total
 print(sum_all_nums1(1, 4))
-print(sum_all_nums1(1, 4, 19, 7, 3))
+print(sum_all_nums1(1, 4, 19, 7, 3)) 
 
 # correct info
 def ensure_correct_info(*args):
