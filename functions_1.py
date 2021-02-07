@@ -4,7 +4,7 @@ def make_noise():
     """A simple function that prints a string in upper case"""
     print("the crowd goes wild".upper())
 make_noise()
-print(make_noise.__doc__)
+print(make_noise.__doc__) 
 
 #returning value from a function
 # return exits the function
