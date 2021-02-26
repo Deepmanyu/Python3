@@ -13,7 +13,7 @@ while True:
 	elif int(min_score_to_win) < 1:
 		print("Enter a number greater than 1")
 	elif int(min_score_to_win) > 10:
-		print("Enter a number smaller than 10") 
+		print("Enter a number smaller than 10")
 	else:
 		break 
 
