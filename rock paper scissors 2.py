@@ -24,7 +24,7 @@ min_score_to_win = int(min_score_to_win)
 #game display
 print(".... Rock ....")
 print(".... Paper ....")
-print(".... Scissors ....")
+print(".... Scissors ....") 
 print("Enter q to quit the game at anytime")
 
 while player_score < min_score_to_win and computer_score < min_score_to_win:
