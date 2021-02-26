@@ -9,7 +9,7 @@ computer_score = 0
 while True:
 	min_score_to_win = input("Enter the min. score required to win the game: ")
 	if min_score_to_win == "":
-		print("Enter a number please") 
+		print("Enter a number please")
 	elif int(min_score_to_win) < 1:
 		print("Enter a number greater than 1")
 	elif int(min_score_to_win) > 10:
