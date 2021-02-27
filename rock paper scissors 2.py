@@ -22,7 +22,7 @@ while True:
 min_score_to_win = int(min_score_to_win)
 
 #game display
-print(".... Rock ....")
+print(".... Rock ....") 
 print(".... Paper ....")
 print(".... Scissors ....")
 print("Enter q to quit the game at anytime")
