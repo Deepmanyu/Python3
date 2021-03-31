@@ -16,7 +16,7 @@ print(user_info2)
 print(type(user_info2))
 
 print(user_info2["name"]) #accessing the value of the dict
-print(user_info2["gender"])
+print(user_info2["gender"]) 
 
 #create a variable full_name using values in a dictionary
 artist = {
