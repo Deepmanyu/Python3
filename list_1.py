@@ -3,7 +3,7 @@
 # 1st example of list 
 sounds = ["super", "cali", "fragil", "istic", "expi", "ali", "docious"]
 result = ""
-for i in sounds:
+for i in sounds: 
     result += i.upper()
 print(result)
 
