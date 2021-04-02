@@ -16,7 +16,7 @@ class Pet:
 		self.species = species
 
 
-cat1 = Pet("kitty1", "cat")
+cat1 = Pet("kitty1", "cat") 
 
 Pet.allowed.append("tiger")
 cat2 = Pet("kitty2", "tiger")
