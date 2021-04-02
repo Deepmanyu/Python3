@@ -27,7 +27,7 @@ print(result)
 
 words = ["coding", "is", "fun"]
 joined_words = " ".join(words)
-print(f"{words} , {joined_words}") 
+print(f"{words} , {joined_words}")
 
 instructors = []
 # Add the following strings to the instructors list 
