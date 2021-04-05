@@ -12,7 +12,7 @@ class User:
 		first, last, age = data_str.split(",")
 		return cls(first, last, int(age))
 
-	def __init__(self, first, last, age):
+	def __init__(self, first, last, age): 
 		self.first = first
 		self.last = last
 		self.age = age
