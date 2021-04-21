@@ -15,7 +15,7 @@ from pyfiglet import figlet_format
 from termcolor import colored
 
 header = figlet_format("DAD JOKES: API CALL BY DEEP")
-header_colored = colored(header, color = "red")
+header_colored = colored(header, color = "red") 
 
 print(header_colored)
 
