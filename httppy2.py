@@ -31,7 +31,7 @@ num_jokes = res["total_jokes"]
 results = res["results"]
 if num_jokes > 1:
 	print(f"I found {num_jokes} jokes about {user_input}. Here's one: ")
-	print(choice(results)["joke"]) 
+	print(choice(results)["joke"])
 elif num_jokes == 1:
 	print(f"I found 1 joke about {user_input}")
 	print(results[0]["joke"])
