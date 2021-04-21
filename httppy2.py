@@ -27,7 +27,7 @@ res = requests.get(
 	params = {"term": user_input}
 ).json()
 
-num_jokes = res["total_jokes"]
+num_jokes = res["total_jokes"] 
 results = res["results"]
 if num_jokes > 1:
 	print(f"I found {num_jokes} jokes about {user_input}. Here's one: ")
