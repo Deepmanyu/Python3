@@ -17,7 +17,7 @@ class User:
 	#class attributes are defined as below. They are defined once
 	# when we want to access it we access it by using class User and not
 	# with the User instance like user1, user2 etc
-	active_users = 0 
+	active_users = 0
 
 	#defining a class methods
 	@classmethod
