@@ -27,7 +27,7 @@ for m in months:
 #count - returns the number of times a value appears in a tuple
 x = (1, 2, 3, 4, 2, 3, 3, 3)
 print(x.count(1))
-print(x.count(3))
+print(x.count(3)) 
 
 #index - gives you the index of the value entered in the method
 print(x.index(1))
