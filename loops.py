@@ -36,7 +36,7 @@ for num in range(4, 14):
 #emogi art
 
 for num in range(1, 11):
-	print("\U0001f600" * num)
+	print("\U0001f600" * num) 
 
 
 #printing the same emogi art using a while loop instead of string multiplication
