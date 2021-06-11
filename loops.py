@@ -8,7 +8,7 @@ for x in range(1, 8, 2):
 	print(x*x)
 
 for letter in "coffee":
-	print(letter*10)
+	print(letter*10) 
 
 
 # printing nums would print range(1, 5). 
