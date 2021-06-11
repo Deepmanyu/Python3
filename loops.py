@@ -30,7 +30,7 @@ for num in range(4, 14):
 		if num%2 == 0:
 			print(f"{num} is even")
 		else:
-			print(f"{num} is odd") 
+			print(f"{num} is odd")
 
 
 #emogi art
