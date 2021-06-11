@@ -16,7 +16,7 @@ nums = range(1, 5)
 print(nums)
 
 #
-times = input("How many times: ")
+times = input("How many times: ") 
 times = int(times)
 
 for time in range(times):
