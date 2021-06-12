@@ -25,7 +25,7 @@ def ensure_correct_info(*args):
 	return "not sure who you are"
 
 print(ensure_correct_info("hello", 1, 1,7, ["a", "b"]))
-print(ensure_correct_info(1, True, "deep", "suhag"))
+print(ensure_correct_info(1, True, "deep", "suhag")) 
 
 # **kwargs - keyword args
 # gathers remaining keyword arguments as a dictionary
