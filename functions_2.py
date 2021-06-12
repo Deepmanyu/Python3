@@ -20,7 +20,7 @@ print(sum_all_nums1(1, 4, 19, 7, 3))
 # correct info
 def ensure_correct_info(*args):
 	print(args)
-	if "deep" in args and "suhag" in args: 
+	if "deep" in args and "suhag" in args:
 		return "welcome back deep"
 	return "not sure who you are"
 
