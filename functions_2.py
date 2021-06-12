@@ -66,7 +66,7 @@ def sum_all_nums2(*args):
 	for num in args:
 		total += num
 	return print(total)
-nums = [1, 2, 3, 4, 5, 6] 
+nums = [1, 2, 3, 4, 5, 6]
 # sum_all_nums2(nums) - will five an error 
 # we will get an error if we pass nums to *args. its so because 
 # the entire list is passed as the 1st argument to the tuple.
