@@ -38,7 +38,7 @@ fav_colors(deep = "green", mom = "blue", anu = "red")
 
 # another example
 def special_greeting(**kwargs):
-	if "deep" in kwargs and kwargs["deep"] == "special":
+	if "deep" in kwargs and kwargs["deep"] == "special": 
 		return "You have a special message"
 	elif "deep" in kwargs:
 		return f"message : {kwargs['deep']}" # remember to use single quotes in kwargs
