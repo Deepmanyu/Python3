@@ -9,7 +9,7 @@ print(sum_all_nums(1, 2, 3))
 
 # what if i need to pass any number of argument to sum
 # we use *args
-def sum_all_nums1(*args):
+def sum_all_nums1(*args): 
 	total = 0
 	for num in args:
 		total += num
