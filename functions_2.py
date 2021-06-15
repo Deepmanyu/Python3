@@ -34,7 +34,7 @@ def fav_colors(**kwargs):
 	for person, color in kwargs.items():
 		print(f"{person }'s fav color is {color}")
 
-fav_colors(deep = "green", mom = "blue", anu = "red")
+fav_colors(deep = "green", mom = "blue", anu = "red") 
 
 # another example
 def special_greeting(**kwargs):
