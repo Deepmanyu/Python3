@@ -57,7 +57,7 @@ def display_info(a, b, *args, name = "deep", **kwargs):
 # args will be a tuple containing (3)
 # name - "deep" as noting was passed in the function for name
 # kwars will be a dictionary {'last_name' : "deep", 'job' ; "data scientist"}
-print(display_info(1, 2, 3 , last_name = "deep", job = "data scientist"))
+print(display_info(1, 2, 3 , last_name = "deep", job = "data scientist")) 
 
 
 # Using * as an argument : Argument unpacking 
