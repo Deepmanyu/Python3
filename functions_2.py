@@ -32,7 +32,7 @@ print(ensure_correct_info(1, True, "deep", "suhag"))
 
 def fav_colors(**kwargs): 
 	for person, color in kwargs.items():
-		print(f"{person }'s fav color is {color}")
+		print(f"{person }'s fav color is {color}") 
 
 fav_colors(deep = "green", mom = "blue", anu = "red") 
 
