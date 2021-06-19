@@ -29,7 +29,7 @@ print(res_2.text)
 # even better. Its JSON. it stands fot javascript object notation.
 # Its a data format that python can very quickly convert into python code
 
-res_3 = requests.get(url2, headers = {"Accept": "application/json"})
+res_3 = requests.get(url2, headers = {"Accept": "application/json"}) 
 print(res_3.text) # this looks like a dictionary but its string
 print(res_3.json()) #this gives a dictionary
 
