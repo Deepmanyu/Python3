@@ -22,7 +22,7 @@ url2 = "https://icanhazdadjoke.com/"
 # its messy hence we dont use that insted we use the below version
 # remember many websites are not made to give this version. Even google
 # is not set up to give that and you get the default html version
-res_2 = requests.get(url2, headers = {"Accept": "text/plain"})
+res_2 = requests.get(url2, headers = {"Accept": "text/plain"}) 
 print(res_2.text)
 
 #Plain text is good but there is another version to get data that is 
