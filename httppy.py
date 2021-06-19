@@ -14,7 +14,7 @@ print(res_1.headers)
 
 #
 
-url2 = "https://icanhazdadjoke.com/" 
+url2 = "https://icanhazdadjoke.com/"
 #The below would give you the html version of the website
 # 
 # res_2 = requests.get(url2, headers = {"Accept": "text/html"})
