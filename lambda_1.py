@@ -16,7 +16,7 @@ add = lambda a, b : a + b
 print(add(1, 5))
 
 print(square.__name__)
-print(square2.__name__) 
+print(square2.__name__)
 print(add.__name__)
 
 #Map
