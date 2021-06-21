@@ -9,7 +9,7 @@ def square(num):
 print(square(9))
 
 # doing the same in lambda
-square2 = lambda num: num * num
+square2 = lambda num: num * num 
 print(square2(7))
 
 add = lambda a, b : a + b
