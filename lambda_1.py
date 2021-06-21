@@ -32,7 +32,7 @@ doubles = map(lambda x: x*2, nums)
 print(list(doubles))
 
 #map example 2
-people = ["deep", "mom", "anu", "anshu", "priyam"] 
+people = ["deep", "mom", "anu", "anshu", "priyam"]
 print(list(map(lambda i : i[0].upper() + i[1:].lower() , people)))
 print(list(map(lambda i : i.upper(), people)))
 
