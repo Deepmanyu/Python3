@@ -5,7 +5,7 @@
 #you cannot use a list as a key in a dictionary
 # you can use a tuple though 
 
-#tuple - immutable 
+#tuple - immutable
 alphabet = ("a", "b", "c", "d")
 print(alphabet)
 print(type(alphabet))
