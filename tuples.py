@@ -6,7 +6,7 @@
 # you can use a tuple though 
 
 #tuple - immutable 
-alphabet = ("a", "b", "c", "d") 
+alphabet = ("a", "b", "c", "d")
 print(alphabet)
 print(type(alphabet))
 # alphabet[0] = "f"  - not permitted
