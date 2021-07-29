@@ -2,7 +2,7 @@
 # tuples are faster than lists. Makes code safer. Valid keys in a dictionary
 # can be created by tuple()
 
-#you cannot use a list as a key in a dictionary 
+#you cannot use a list as a key in a dictionary
 # you can use a tuple though
 
 #tuple - immutable
