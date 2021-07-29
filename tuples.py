@@ -3,7 +3,7 @@
 # can be created by tuple()
 
 #you cannot use a list as a key in a dictionary
-# you can use a tuple though
+# you can use a tuple though 
 
 #tuple - immutable
 alphabet = ("a", "b", "c", "d")
