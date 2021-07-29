@@ -9,7 +9,7 @@
 alphabet = ("a", "b", "c", "d") 
 print(alphabet)
 print(type(alphabet))
-# alphabet[0] = "f"  - not permitted 
+# alphabet[0] = "f"  - not permitted
 
 months = ("jan", "feb", "mar", "apr", "may", "jun")
 print(months[0])
