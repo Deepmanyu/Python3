@@ -113,7 +113,7 @@ print(devide(1, "a"))
 
 ################### debugging with pdb ################ 
 
-#helps us step through the code - python debugger, its a module just like randon 
+#helps us step through the code - python debugger, its a module just like randon
 #To set breakpoints in our code we can use pdb by insertong this line
 # import pdb; pdb.set_trace() - use like this in one line use
 #Commands in pdb
