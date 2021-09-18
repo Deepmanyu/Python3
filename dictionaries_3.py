@@ -9,7 +9,7 @@ print(f"{numbers}{sq_numbers}")
 # creating a dictionary with dictionary comprehension
 
 #1
-d1 = {num: num ** 2 for num in [1, 2, 3, 4, 5]}
+d1 = {num: num ** 2 for num in [1, 2, 3, 4, 5]} 
 print(d1)
 
 #2
