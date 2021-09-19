@@ -14,7 +14,7 @@ print(d1)
 
 #2
 str1 = "abc" 
-str2 = "123" 
+str2 = "123"
 combo_str = {str1[i]: str2[i] for i in range(0, len(str1) -1 )}
 print(combo_str)
 
