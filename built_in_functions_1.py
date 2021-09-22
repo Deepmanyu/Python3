@@ -14,7 +14,7 @@ print([n[0] == "d" for n in people])
 #Any - takes an iterable and returns True if any item of iterable
 # is true. If iterable is empty it returns Fasle
 print(any([name[0] == "d" for name in people]))
-print(all([name[0] == "d" for name in people]))
+print(all([name[0] == "d" for name in people])) 
 
 
 #list and generatoar expression
