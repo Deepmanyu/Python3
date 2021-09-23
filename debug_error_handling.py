@@ -62,7 +62,7 @@ def get_1(d, key):
 d = {"name" : "ricky"}
 
 print(get_1(d, "name"))
-print(get_1(d, "city")) #the program does not collapse 
+print(get_1(d, "city")) #the program does not collapse
 
 #try:
 #except:
