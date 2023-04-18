@@ -1,6 +1,6 @@
 # dictionaries 
 
-#create 2 dictionaries called user_info and add at least 3 key value
+#create 2 dictionaries called user_info and add at least 3 key value 
 # pairs to it
 
 #list
