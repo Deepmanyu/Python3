@@ -1,4 +1,4 @@
-#functions - part1
+#functions - part1 
 
 def make_noise():
     """A simple function that prints a string in upper case"""
