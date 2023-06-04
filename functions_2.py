@@ -1,5 +1,5 @@
 # single * operator. its often called as *args. Its just a parameter, you can call it anything
-# its a special operator we can pass to a function.           
+# its a special operator we can pass to a function.            
 # Gathers the remaining arguments as a tuple
 
 
